@@ -10,6 +10,14 @@
 #### 記号創発ロボティクスについて
 ～まとめ中～
 
+##### T. Taniguchi, et al., Symbol emergence in robotics:a survey, Advanced Robotics, 30:11-12, 706-728
+
+
+#### 少し分野の近い論文のメモ
+
+##### Sergey Levine, Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review
+
+
 
 #### 触覚に関連する認知発達ロボティクスの研究について
 ～まとめ中～
