@@ -7,10 +7,10 @@
 　記号創発ロボティクスとハプティクスについての調査を備忘的に記録していく。  
  
  
-#### 記号創発ロボティクスについて
+## 記号創発ロボティクスについて
 ～まとめ中～
 
-##### [T. Taniguchi, et al., Symbol emergence in robotics:a survey, Advanced Robotics, 30:11-12, 706-728](https://www.tandfonline.com/doi/abs/10.1080/01691864.2016.1164622)
+### [T. Taniguchi, et al., Symbol emergence in robotics:a survey, Advanced Robotics, 30:11-12, 706-728](https://www.tandfonline.com/doi/abs/10.1080/01691864.2016.1164622)
  記号創発ロボティクスのサーベイ。3章までは背景の紹介。4章はマルチモーダルカテゴリ化の研究紹介。4-3節ではカテゴリ数を
 自動で算出するbayesian nonparametricsの研究も紹介。5章は言葉の発見のモデル化についての研究紹介。ここでもノンパラベイズ。
 6章では二重分節構造について、言語、言語以外の研究について紹介。7章では、通常の自然言語処理であまり言及されない
@@ -38,7 +38,7 @@ __思ったこと__
  Auton. Mental Dev. 2010;2:230-247](https://ieeexplore.ieee.org/abstract/document/5508364)
  
  
-##### [T. Taniguchi et al., "Symbol Emergence in Cognitive Developmental Systems: A Survey," in IEEE Transactions on Cognitive and Developmental Systems, vol. 11, no. 4, pp. 494-516, Dec. 2019](https://ieeexplore.ieee.org/abstract/document/8451965)
+### [T. Taniguchi et al., "Symbol Emergence in Cognitive Developmental Systems: A Survey," in IEEE Transactions on Cognitive and Developmental Systems, vol. 11, no. 4, pp. 494-516, Dec. 2019](https://ieeexplore.ieee.org/abstract/document/8451965)
 AI、神経科学、発達心理学、認知科学、機械学習の視点から、社会における記号のダイナミズムを表現する記号創発システムについて論じている、
 認知発達システムにおける記号創発のサーベイ。通して"symbol"という語に２つの意味（単一の離散的なトークンとしての記号、人間の日常生活における記号）があり、
 様々な分野で混乱が起きていることを述べている。記号学が現実世界の記号のダイナミズムを表せるコンピュータモデルを持っていないことから、記号創発システムを
@@ -53,7 +53,7 @@ AI、神経科学、発達心理学、認知科学、機械学習の視点から
  __思ったこと__  
  AI、神経科学、発達心理学、認知科学、機械学習の視点から、記号について論じているサーベイ論文。記号創発システムの位置づけがよくわかった。
 
-##### [M. Asada et al., "Cognitive Developmental Robotics: A Survey," in IEEE Transactions on Autonomous Mental Development, vol. 1, no. 1, pp. 12-34, May 2009](https://ieeexplore.ieee.org/abstract/document/4895715)
+### [M. Asada et al., "Cognitive Developmental Robotics: A Survey," in IEEE Transactions on Autonomous Mental Development, vol. 1, no. 1, pp. 12-34, May 2009](https://ieeexplore.ieee.org/abstract/document/4895715)
 
 #### 少し分野の近い論文のメモ
 
@@ -61,13 +61,13 @@ AI、神経科学、発達心理学、認知科学、機械学習の視点から
 
 
 
-#### 触覚に関連する認知発達ロボティクスの研究について
+### 触覚に関連する認知発達ロボティクスの研究について
 ～まとめ中～  
 [T. Taniguchi2016]のサーベイでは、触覚関係は中村先生のマルチモーダルカテゴリ化についての言及があった。
 
 
 
-##### 文献メモ
+#### 文献メモ
 
 * アンジェロ カンジェロシら著、岡田 浩之ら訳「発達ロボティクスハンドブック」、福村出版(2019)
 * ＜未入手＞下条　誠ら、「触覚認識メカニズムと応用技術-触覚センサ・触覚ディスプレイ-【増補版】」、S&T出版(2014)
