@@ -59,11 +59,14 @@ AI、神経科学、発達心理学、認知科学、機械学習の視点から
 
 ##### Sergey Levine, Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review
 
-
+##### Masahiro Suzuki, A survey of multimodal deep generative models
 
 ### 触覚に関連する認知発達ロボティクスの研究について
 ～まとめ中～  
 [T. Taniguchi2016]のサーベイでは、触覚関係は中村先生のマルチモーダルカテゴリ化についての言及があった。
+「発達ロボティクスハンドブック」より、國吉らによるFetus model1及び2において、羊水中の胎児を模擬したモデルに千個以上の接触センサを設けて認知発達を調査した研究について言及あり。論文は下記。  
+* [Kuniyoshi, Y., Sangawa, S. Early motor development from partially ordered neural-body dynamics: experiments with a cortico-spinal-musculo-skeletal model. Biol Cybern 95, 589 (2006)](https://link.springer.com/article/10.1007/s00422-006-0127-z)  about 5000Yen.
+* [H. Mori and Y. Kuniyoshi, "A human fetus development simulation: Self-organization of behaviors through tactile sensation," 2010 IEEE 9th International Conference on Development and Learning, 2010, pp. 82-87, doi: 10.1109/DEVLRN.2010.5578860. ](https://ieeexplore.ieee.org/abstract/document/5578860) about 1800Yen
 
 
 
