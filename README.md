@@ -54,17 +54,28 @@ AI、神経科学、発達心理学、認知科学、機械学習の視点から
  AI、神経科学、発達心理学、認知科学、機械学習の視点から、記号について論じているサーベイ論文。記号創発システムの位置づけがよくわかった。
 
 ### [M. Asada et al., "Cognitive Developmental Robotics: A Survey," in IEEE Transactions on Autonomous Mental Development, vol. 1, no. 1, pp. 12-34, May 2009](https://ieeexplore.ieee.org/abstract/document/4895715)
+ロボットを用いて人間の発達過程を研究する、認知発達ロボティクスについてのサーベイ。胎児レベルからモデルを作り発達メカニズムについて研究されている。身体表現、motor control、体そのものによる計算、言語獲得、共感能力などの研究についての概要を説明している。  
+
+__思ったこと__  
+胎児レベルからシミュレーションにより発達を考えるというのが面白く、また発達過程には未知の領域が多数あることがわかった。胎児の感覚器官の発達において触覚が最も早い（約10週、視覚は18週）のが興味深かった。
+
+
+->次に読む  
+[A. Pitti, et al., "Cross-modal and scale-free action representations through enaction", Neural Netw., 2009](https://perso-etis.ensea.fr/alexpitt/papers/j.neunet.2009.01.007.pdf)  
+[L. Natale, et al., "Exploring the world through grasping: A developmental approach", in Proc. 6th CIRA Symp., 2005](https://francesco.orabona.com/papers/05cira.pdf)  
+[L. Natale, et al., "Sensorymotor coordination in a 'baby; robot: Learning about objects through grasping," Progr. Brain Res.: From Action to Cogn., vol. 164, 2007](http://www.robotcub.org/misc/papers/07_Natale_Orabona_Metta_Sandini.pdf)  
+[L. Natale, et al., "Learning precise 3d reaching in a humanoid robot," in Proc. 6th IEEE Int. Conf. Develop. Learn., 2007](https://www.researchgate.net/profile/Francesco-Nori/publication/4282862_Learning_precise_3D_reaching_in_a_humanoid_robot/links/00b4953a1aa4c76e12000000/Learning-precise-3D-reaching-in-a-humanoid-robot.pdf)  
 
 #### 少し分野の近い論文のメモ
 
-##### Sergey Levine, Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review
+##### [Sergey Levine, Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review](https://arxiv.org/pdf/1805.00909.pdf)
 
-##### Masahiro Suzuki, A survey of multimodal deep generative models
+##### [Masahiro Suzuki, A survey of multimodal deep generative models](https://www.tandfonline.com/doi/abs/10.1080/01691864.2022.2035253)
 
 ### 触覚に関連する認知発達ロボティクスの研究について
 ～まとめ中～  
 [T. Taniguchi2016]のサーベイでは、触覚関係は中村先生のマルチモーダルカテゴリ化についての言及があった。
-「発達ロボティクスハンドブック」より、國吉らによるFetus model1及び2において、羊水中の胎児を模擬したモデルに千個以上の接触センサを設けて認知発達を調査した研究について言及あり。論文は下記。  
+「発達ロボティクスハンドブック」より、國吉らによるFetus model1及び2において、羊水中の胎児を模擬し千個以上の接触センサをつけた胎児シミュレーションモデルを開発し、認知発達を調査した研究について言及あり。論文は下記。  
 * [Kuniyoshi, Y., Sangawa, S. Early motor development from partially ordered neural-body dynamics: experiments with a cortico-spinal-musculo-skeletal model. Biol Cybern 95, 589 (2006)](https://link.springer.com/article/10.1007/s00422-006-0127-z)  about 5000Yen.
 * [H. Mori and Y. Kuniyoshi, "A human fetus development simulation: Self-organization of behaviors through tactile sensation," 2010 IEEE 9th International Conference on Development and Learning, 2010, pp. 82-87, doi: 10.1109/DEVLRN.2010.5578860. ](https://ieeexplore.ieee.org/abstract/document/5578860) about 1800Yen
 
