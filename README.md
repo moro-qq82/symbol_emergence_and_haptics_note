@@ -84,6 +84,7 @@ __思ったこと__
 #### 文献メモ
 
 * アンジェロ カンジェロシら著、岡田 浩之ら訳「発達ロボティクスハンドブック」、福村出版(2019)
+* Angelo Cangelosi(編), Minoru Asada(編), "Cognitive Robotics (Intelligent Robotics and Autonomous Agents series)", The MIT Press(2022)
 * ＜未入手＞下条　誠ら、「触覚認識メカニズムと応用技術-触覚センサ・触覚ディスプレイ-【増補版】」、S&T出版(2014)
 
 
