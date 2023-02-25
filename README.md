@@ -78,14 +78,15 @@ __思ったこと__
 「発達ロボティクスハンドブック」より、國吉らによるFetus model1及び2において、羊水中の胎児を模擬し千個以上の接触センサをつけた胎児シミュレーションモデルを開発し、認知発達を調査した研究について言及あり。論文は下記。  
 * [Kuniyoshi, Y., Sangawa, S. Early motor development from partially ordered neural-body dynamics: experiments with a cortico-spinal-musculo-skeletal model. Biol Cybern 95, 589 (2006)](https://link.springer.com/article/10.1007/s00422-006-0127-z)  about 5000Yen.
 * [H. Mori and Y. Kuniyoshi, "A human fetus development simulation: Self-organization of behaviors through tactile sensation," 2010 IEEE 9th International Conference on Development and Learning, 2010, pp. 82-87, doi: 10.1109/DEVLRN.2010.5578860. ](https://ieeexplore.ieee.org/abstract/document/5578860) about 1800Yen
-
-
+  * 触覚を持つ胎児の子宮内の動きのシミュレーションを通じて、子宮内の運動学習に果たす触覚の役割を明らかにした
+  * 触覚分布が均一と不均一で創発する運動の状況が異なることがわかった
+ 
 
 #### 文献メモ
 
 * アンジェロ カンジェロシら著、岡田 浩之ら訳「発達ロボティクスハンドブック」、福村出版(2019)
 * Angelo Cangelosi(編), Minoru Asada(編), "Cognitive Robotics (Intelligent Robotics and Autonomous Agents series)", The MIT Press(2022)
-* ＜未入手＞下条　誠ら、「触覚認識メカニズムと応用技術-触覚センサ・触覚ディスプレイ-【増補版】」、S&T出版(2014)
+* 下条　誠ら、「触覚認識メカニズムと応用技術-触覚センサ・触覚ディスプレイ-【増補版】」、S&T出版(2014)
 
 
 
